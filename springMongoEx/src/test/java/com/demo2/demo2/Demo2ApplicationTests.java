@@ -1,4 +1,4 @@
-package com.youtubeDemo2.demo2;
+package com.demo2.demo2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.youtubeDemo2.demo2.student;
+package com.demo2.demo2.student;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
